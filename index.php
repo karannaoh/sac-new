@@ -24,7 +24,7 @@
 
 </header>
 <?php
-include 'nav.php'
+include 'nav3.php'
 ?>
 
 <br>

@@ -27,7 +27,49 @@ section {
 .carousel-caption{
     top: 8%;
 }
-.navbar-inverse {
-    background-color: #003366;
-    border-color: #003366;
+
+/***
+    Added By: Asif
+    On: 17-08-2017
+*****/
+/*
+* Style tweaks
+* --------------------------------------------------
+*/
+
+/*
+ * Custom styles
+ */
+
+
+.navbar-container {
+    padding: 20px 0 20px 0;
 }
+/*
+    color after scrollong of nav
+*/
+.navbar.navbar-fixed-top.fixed-theme {
+    background-color: white;
+
+    box-shadow: 0 0 15px rgba(0,0,0,.8);
+}
+
+
+
+.navbar-container.fixed-theme {
+    padding: 0;
+}
+
+
+.navbar-container.fixed-theme,
+.navbar.navbar-fixed-top.fixed-theme,
+.navbar-container{
+    transition: 0.8s;
+    -webkit-transition:  0.8s;
+}   
+#navbar{
+    padding-top: 10px;
+
+}
+
+
