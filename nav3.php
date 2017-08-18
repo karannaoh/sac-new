@@ -56,7 +56,7 @@
                 <li><a href="#">2012</a></li>
               </ul>
             </li>
-				  </ul>
+				      </ul>
                 </div><!-- /.nav-collapse -->
             </div><!-- /.container -->
         </nav><!-- /.navbar -->

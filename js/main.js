@@ -33,6 +33,7 @@ var myNavBar = {
 
     init: function (elements) {
         this.elements = elements;
+        console.log(elements);
     },
 
     add : function() {
@@ -60,8 +61,7 @@ var myNavBar = {
  */
 myNavBar.init(  [
     "header",
-    "header-container",
-    "brand"
+    "header-container"
 ]);
 
 /**
@@ -72,7 +72,7 @@ function offSetManager(){
 
     var yOffset = 0;
     var currYOffSet = window.pageYOffset;
-
+      //  console.log("elements",elements);
     if(yOffset < currYOffSet) {
         myNavBar.add();
     }
