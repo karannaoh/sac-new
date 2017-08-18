@@ -71,5 +71,10 @@ section {
     padding-top: 10px;
 
 }
+/***************/
+.dropdown-menu
+{
+    text-align: center;
+}
 
 
