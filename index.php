@@ -1,5 +1,6 @@
 
-<head>
+<head> 
+    <title> Alumni Cell </title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/main.css">
 </head>
@@ -24,7 +25,8 @@
 
 </header>
 <?php
-include 'nav3.php'
+include 'nav3.php';
+include 'body.php';
 ?>
 
 <br>
