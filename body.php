@@ -41,7 +41,7 @@ p
 {
 	font-size: 200%;
 	font-weight: bolder;
-	text-decoration: underline white;
+	text-decoration: underline black;
 	color: black;
 
 
