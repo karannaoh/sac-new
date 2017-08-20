@@ -29,7 +29,6 @@ include 'nav3.php';
 ?>
 <br><br><br><br><br><br>
 <?php
-include 'try4.php';
 include 'body.php';
 ?>
 </body>
@@ -41,10 +40,4 @@ include 'foot.php';
 
 <script src="js/main.js"></script>
 
-<?php
-/**
- * Created by PhpStorm.
- * User: naoh
- * Date: 3/7/17
- * Time: 11:12 PM
- */?>
+

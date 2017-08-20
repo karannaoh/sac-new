@@ -27,7 +27,7 @@ body
 	
 	background-image: url('6.jpg');
 }
-p
+#about
 {
 	font-size: 16px;
     padding: 3.3em 3em ;
@@ -167,7 +167,7 @@ h2
 <div class="col-sm-1"></div>
 <div class="col-sm-10">
 	
-<p>
+<p id="about">
 	The Students' Alumni Cell, IIT Kharagpur is a voluntary student body working under the aegis 
                       of the Dean of Alumni Affairs and International Relations. It strives to bridge the gap between 
                       IIT Kharagpur and its esteemed alumni community.<br>
@@ -293,36 +293,30 @@ h2
   </div>
 
 </div>
+<div class="row">
+    <div class="col-sm-12 " align="center"><div  class="bor" >What We Do</div></div>
+    </div>
+
+
+<?php include '3.php';?>
+</body>
+<script type="text/javascript">
+	$('.flip').hover(function(){
+        $(this).find('.card').toggleClass('flipped');
+
+    });
+</script>
 
 
 
 
+
+<?php
+
+/*http://www.webs.com/themes
+https://uxplanet.org/best-practices-for-website-header-design-e0d55bf5f1e2
 
 <!--
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <div class="col-sm-5"></div>
     <div class="col-sm-5">What We Do</div>
     <div class="col-sm-2"></div>
@@ -351,7 +345,7 @@ h2
               </div>
             </div>
           </div>
-        </div>	 
+        </div>   
       </div>
     </div>
   <div class="col-sm-3">
@@ -374,7 +368,7 @@ h2
               </div>
             </div>
           </div>
-        </div>	 
+        </div>   
       </div>
     </div>
   <div class="col-sm-3">
@@ -396,7 +390,7 @@ h2
            <div  class="asq">   <em>Continuing with its yearlong series of Guest Lectures by eminent alumni, the Students’ Alumni Cell recently organised "Tips from Top", an open house with prominent alumni in the fields of Entrepreneurship, Civil Services and Research.</em></div>
             </div>
           </div>
-        </div>	 
+        </div>   
       </div>
     </div>
  
@@ -408,56 +402,6 @@ h2
 -->
 
 
-    <div class="row">
-    <div class="col-sm-12 " align="center"><div  class="bor" >What We Do</div></div>
-    </div>
+    
 
-
-<?php include '3.php';?>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  </body>
-
-
-<script type="text/javascript">
-	
-
-
-
-
-
-
-	$('.flip').hover(function(){
-        $(this).find('.card').toggleClass('flipped');
-
-    });
-</script>
-
-
-
-
-
-<?php
-
-/*http://www.webs.com/themes
-https://uxplanet.org/best-practices-for-website-header-design-e0d55bf5f1e2*/?>
+*/?>

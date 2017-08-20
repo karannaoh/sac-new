@@ -78,7 +78,7 @@ body {font-family: Verdana,sans-serif;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 6</div>
-  <img src="3.1jpg" style="width:100%">
+  <img src="3.1.jpg" style="width:100%">
   <div class="text">Caption Text</div>
 </div>
 

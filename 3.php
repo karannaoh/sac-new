@@ -11,7 +11,7 @@
 <style type="text/css">
 	body
 	{
-		background-color: rgba(0,0,0,.67);
+		
 	}
 	.headercan
 	{
@@ -23,7 +23,7 @@
     
 }
 	
-.container
+.mainn
 {
 	background-color: #f7f7f7;
 	width: 70%;
@@ -49,12 +49,9 @@
 
 .textinit
 {
-font-size: 16px;
-   
-    word-spacing: 5px;
+	font-size: 16px;
+	word-spacing: 5px;
     font-weight: bold;
-    
-    
 }
 .imagesize
 {
@@ -74,6 +71,7 @@ font-size: 16px;
 {
 	background-color: #f7f7f7;
 }
+
 .for
 {
 	margin-left: -10%;
@@ -108,7 +106,7 @@ hr
 <body>
 <br><br>
 	
-<div class="container">
+<div class="container mainn">
 	
 <div class="row">
 <br><br>

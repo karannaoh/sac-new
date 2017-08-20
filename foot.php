@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title></title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
   <style type="text/css">
     #foot{
       background-color: #222c3a;
@@ -41,7 +32,7 @@
 </head>
 <body>
 <div class="container-fluid" id="foot">
-  <div class="row">
+ <div class="row">
   <div class="col-sm-3 text-center"><p id="footer">This website is governed by <strong>Office of Alumni Affairs & International Relations,</strong><br>
                    Indian Institute of Technology, Kharagpur<br>
                    West Bengal, India</p>&copy; 2016 Students' Alumni Cell</div>

@@ -1,5 +1,6 @@
 /**
  * Created by naoh on 3/7/17.
+  TOP BACKGROUND
  */
 var  nd = $(".navbar.navbar-default");
 var  nft = "navbar-fixed-top";
@@ -16,7 +17,13 @@ $(window).scroll(function() {
 	Added By : Asif
 	On: 17/08/2017
 ***/
+/******************************************************/
+/**
 
+
+    NAVBAR
+
+**/
 	$(document).ready(function(){
 
 /**
@@ -95,9 +102,9 @@ window.onscroll = function(e) {
  */
 offSetManager();
 });
-
+/***************************************************************************/
     /***
-        
+        DROPDOWN
     ***/
     $(function(){
     $(".dropdown").hover(            
@@ -110,3 +117,4 @@ offSetManager();
                 $(this).toggleClass('open');               
             });
     });
+/********************************************************************************/
