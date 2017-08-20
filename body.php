@@ -11,12 +11,12 @@
 <style type="text/css">
 body
 {
-	
+	background-color: rgba(0,0,0,.67);
 }
 .col-sm-10
 {
 	box-shadow: 3px 3px 6px 6px rgba(0,0,0,.4);
-	background-image: url('imgs/2.4.jpg');
+	background-image: url('2.4.jpg');
 	
 }
 
@@ -24,27 +24,32 @@ body
 
 .col-sm-10:hover
 {
-	box-shadow: 5px 5px 10px 10px rgba(0,0,0,1);
-	background-image: url('imgs/6.jpg');
+	
+	background-image: url('6.jpg');
 }
 p
 {
-	font-size: 160%;
-	font-weight: bold;
+	font-size: 16px;
+    padding: 3.3em 3em ;
+    word-spacing: 5px;
+    font-weight: bold;
+    font-size: 120%;
 }
 
 .thumbnail
 {
 	box-shadow: 3px 3px 6px 6px rgba(0,0,0,.4);
 }
-.col-sm-5
+.col-sm-12
 {
-	font-size: 200%;
-	font-weight: bolder;
-	text-decoration: underline black;
-	color: black;
-
-
+	
+	font-family: 'Eczar', serif;
+    font-size: 5rem;
+    text-align: center;
+    margin: 0;
+    color: white;
+  
+    
 }
 
 
@@ -60,6 +65,12 @@ h2
 	font-size: 250%;
 }
 
+.bor
+{
+	border: 4px solid;
+    padding: 12px;
+    color: black;
+}
 
 
 
@@ -113,13 +124,16 @@ h2
 
 .asq
 {
-	background-color: white;
+	background-color: rgba(0,0,0,0.67);
+	
+	color: white;
 }
 
 
-
-
-
+.inner .text-center
+{
+	background-color: rgba(0,0,0,0.67);
+}
 
 
 
@@ -144,11 +158,12 @@ h2
  <body>
   	<br /><br />
   	
-    <div class="col-sm-5"></div>
-    <div class="col-sm-5">About Us</div>
-    <div class="col-sm-2"></div>
+    <div class="row">
+    <div class="col-sm-12 " align="center"><div  class="bor" >About Us</div></div>
+    </div>
 
   	 <br /><br /><br /><br />
+     <div class="row">
 <div class="col-sm-1"></div>
 <div class="col-sm-10">
 	
@@ -163,40 +178,24 @@ h2
                        regular guest lectures by distinguished alumni in the campus, publishing the annual 
                        literary magazine (Yearnings of Yore) & the annual yearbook.  
                        The Students' Alumni Cell also operates the Student - Alumni Mentorship Programme, My Imprint
-                      (Giving Back - Alumni contribution) and organises Alvida (the annual farewell dinner).
+                      (Giving Back - Alumni contribution) and organises Alvida (the annual farewell dinner).<br /><br />
 </p>
 
 
 
-<div class="col-sm-4"><br><br></div>
-<div class="col-sm-4"><br><br></div>
-<div class="col-sm-4"><br /><br></div>
 
 </div> 
+</div>
 <br /><br /><br /><br />
 
-<div class="col-sm-4"><br><br></div>
-<div class="col-sm-4"><br><br></div>
-<div class="col-sm-4"><br /><br></div>
-
-  <div class="col-sm-5"></div>
-    <div class="col-sm-5">Latest Programs</div>
-    <div class="col-sm-2"></div>
+ <div class="row">
+    <div class="col-sm-12 " align="center"><div  class="bor" >Latest Programs</div></div>
+    </div>
 
 
 
-<br /><br /><br /><br />
-
-
-<div class="col-sm-1"></div>
-
-
-<div class="col-sm-4"><br><br></div>
-<div class="col-sm-4"><br><br></div>
-<div class="col-sm-4"><br /><br></div>
-
-
-  
+  <div class="container-fluid">
+  <br /><br /><br /><br />
 <div class="row">
 <div class="col-sm-3">
       <div class="flip">
@@ -205,7 +204,7 @@ h2
             <div class="inner"> 
             <div class="thumbnail">
 
-              <img src="imgs/10.1.jpg" width="333" >
+              <img src="10.1.jpg" width="333" >
               <div class="caption">
           <h2>Class Gift</h2>
         </div>
@@ -230,7 +229,7 @@ h2
           <div class="face front"> 
             <div class="inner">  
             <div class="thumbnail"> 
-              <img src="imgs/10.2.jpg" >
+              <img src="10.2.jpg" >
                <div class="caption">
           <h2>Mentorship</h2>
         </div>
@@ -253,7 +252,7 @@ h2
           <div class="face front"> 
             <div class="inner">  
             <div class="thumbnail"> 
-              <img src="imgs/10.3.jpg" width="315">
+              <img src="10.3.jpg" width="315">
                <div class="caption">
           <h2>Guest Lecture</h2>
         </div>
@@ -275,7 +274,7 @@ h2
           <div class="face front"> 
             <div class="inner">   
             <div class="thumbnail">
-              <img src="imgs/10.4.jpg" width="315">
+              <img src="10.4.jpg" width="315">
                <div class="caption">
           <h2>Yearbook</h2>
         </div>
@@ -293,13 +292,13 @@ h2
     </div>
   </div>
 
+</div>
 
 
 
 
 
-
-
+<!--
 
 
 
@@ -338,7 +337,7 @@ h2
             <div class="inner"> 
             <div class="thumbnail">
 
-              <img src="imgs/11.1.jpg" width="333">
+              <img src="11.1.jpg" width="333">
               <div class="caption">
           <h2>For Alumni</h2>
         </div>
@@ -361,7 +360,7 @@ h2
           <div class="face front"> 
             <div class="inner">  
             <div class="thumbnail"> 
-              <img src="imgs/11.2.jpg" width="315">
+              <img src="11.2.jpg" width="315">
                <div class="caption">
           <h2>For Institute</h2>
         </div>
@@ -384,7 +383,7 @@ h2
           <div class="face front"> 
             <div class="inner">  
             <div class="thumbnail"> 
-              <img src="imgs/11.3.jpg" width="315">
+              <img src="11.3.jpg" width="315">
                <div class="caption">
           <h2>For Institute</h2>
         </div>
@@ -406,12 +405,15 @@ h2
 
 
 
+-->
 
 
+    <div class="row">
+    <div class="col-sm-12 " align="center"><div  class="bor" >What We Do</div></div>
+    </div>
 
 
-
-
+<?php include '3.php';?>
 
 
 
@@ -450,3 +452,12 @@ h2
 
     });
 </script>
+
+
+
+
+
+<?php
+
+/*http://www.webs.com/themes
+https://uxplanet.org/best-practices-for-website-header-design-e0d55bf5f1e2*/?>

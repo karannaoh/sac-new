@@ -1,44 +1,60 @@
 <!DOCTYPE html>
 <html>
 <head>
-	
-	<meta charset="utf-8">
+  <title></title>
+  <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
   <style type="text/css">
     #foot{
-      padding-left: 16px;
-    }
-    footer {
-      background-color: #555;
+      background-color: #222c3a;
       color: white;
-      padding: 15px;
+      font-family: 'Raleway',sans-serif;
     }
-    #foot{
-      padding-top: 15px;
-      text-align: center;
+    #footer{
+      margin-top: 25px;
+      opacity: 0.9;
     }
-    
-   .headsoc{
-    text-align: center;
-    padding-top: 20px;
-   }
+    .btn-link{
+      opacity: 0.5;
+    }
+    .emails{
+      opacity: 0.4;
+    }
+    .phone{
+      opacity: 0.4;
+    }
+    #midfoot{
+      margin-top: 16px;
+    }
+    .maps{
+      opacity: 0.7;
+      margin-left: 10px;
+    }
+    #rightfoot{
+      margin-top: 16px;
+    }
   </style>
 </head>
 <body>
-<br><br><br><br><br><br><br><br>
-<div class="row" style="color:white;background-color: black">
-  <div class="col-sm-4"><p id="foot"><strong>Office of Alumni Affairs & International Relations,<br>
+<div class="container-fluid" id="foot">
+  <div class="row">
+  <div class="col-sm-3 text-center"><p id="footer">This website is governed by <strong>Office of Alumni Affairs & International Relations,</strong><br>
                    Indian Institute of Technology, Kharagpur<br>
-                    Pin-721302, West Bengal, India<br>
-                    Ph: 03222-282236 <br>
-                    Email: aao@hijli.iitkgp.ernet.in</strong></p></div>
-  <div class="col-sm-4"></div>
-<div class="col-sm-4">
-               <div class="headsoc"><strong>Connect with us on</strong></div> <br>
+                   West Bengal, India</p>&copy; 2016 Students' Alumni Cell</div>
+
+  <div class="col-sm-6 text-center" id="midfoot">
+    Recent Posts
+  </div>
+<div class="col-sm-3" id="rightfoot">
+               <div class="headsoc"><strong>Contact us</strong></div> <br>
+               <i class="fa fa-envelope-o" style="size:36px;"></i> email: <a href="#" class="emails">aao@hijli.iitkgp.ernet.in</a><br>
+               <i class="fa fa-phone" style="size:36px;"></i> phone: <a href="" class="phone" >03222-282236</a><br>
+               <div class="maps" >Google Maps</div><br>
+               <div class="social_links">Follow us on</div>
                <div class="btn-group btn-group-justified" class="btn-link"> 
                   <div class="btn-group" >
                     <button type="button" class="btn btn-link" style="font-size:36px"><a href="http://www.facebook.com/iitkgp.alumnicell?fref=ts&ref=br_tf" class="icoFacebook" class="img-responsive" title="Facebook" style="color: #3e5b98"><i class="fa fa-facebook-square"></i></a></button>
@@ -54,11 +70,9 @@
                     <button type="button" class="btn btn-link" style="font-size:36px;"><a href="http://www.youtube.com/channel/UCtnSs1CT59Rd8L6VlOAxzRA" class="icoyoutube" class="img-responsive" title="You Tube"><i class="fa fa-youtube-square" style="color:#e02a20;"></i></a></button>
                   </div>
                 </div>
-              </div>
+  
 </div>
-
-<footer class="container-fluid text-center">
-  &copy; 2016 Students' Alumni Cell
-</footer>
+</div>
+</div>
 </body>
 </html>

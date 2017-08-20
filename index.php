@@ -26,12 +26,16 @@
 </header>
 <?php
 include 'nav3.php';
-//include 'body.php';
-//include 'foot.php';
 ?>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
+<?php
+include 'try4.php';
+include 'body.php';
+?>
 </body>
+<?php 
+include 'foot.php';
+?>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script><link rel="stylesheet" href="">
 
@@ -43,4 +47,4 @@ include 'nav3.php';
  * User: naoh
  * Date: 3/7/17
  * Time: 11:12 PM
- */
+ */?>
