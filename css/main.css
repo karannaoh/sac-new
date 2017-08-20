@@ -33,12 +33,9 @@ section {
     On: 17-08-2017
 *****/
 /*
-* Style tweaks
-* --------------------------------------------------
-*/
 
-/*
- * Custom styles
+    NAVBAR
+
  */
 
 
@@ -71,10 +68,19 @@ section {
     padding-top: 10px;
 
 }
-/***************/
+/***
+    DROPDOWN MENU
+**/
 .dropdown-menu
 {
     text-align: center;
+    font-size: 120%;
+    font-family: sans-serif;
+    padding: 5px;
+}
+.divider
+{
+    padding: :-5px !important;
 }
 
 

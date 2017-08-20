@@ -1,6 +1,6 @@
 <!-- Fixed navbar -->
         <nav id="header" class="navbar navbar-default navbar-static-top">
-            <div id="header-container" class="container navbar-container">
+            <div id="header-container" class="container-fluid navbar-container">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
                         <span class="sr-only">Toggle navigation</span>
@@ -20,10 +20,15 @@
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Events</a>
               <ul class="dropdown-menu">
                 <li><a href="#">Annual Alumni Meet</a></li>
+                 <li class="divider"></li>
                 <li><a href="#">Student Alumni Meet</a></li>
+                 <li class="divider"></li>
                 <li><a href="#">Phonathon</a></li>
+                 <li class="divider"></li>
                 <li><a href="#">Guest Lectures</a></li>
+                 <li class="divider"></li>
                 <li><a href="#">Leadership Summit</a></li>
+                 <li class="divider"></li>
                 <li><a href="#">Alvida</a></li>
               </ul>
             </li>
@@ -31,7 +36,9 @@
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Initiative</a>
               <ul class="dropdown-menu">
                 <li><a href="#">Mentorship Programme</a></li>
+                 <li class="divider"></li>
                 <li><a href="#">My Imprint</a></li>
+                 <li class="divider"></li>
                 <li><a href="#">SPARC</a></li>
               </ul>
             </li>
@@ -39,6 +46,7 @@
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Publications</a>
               <ul class="dropdown-menu">
                 <li><a href="#">Yearbook</a></li>
+                <li class="divider"></li>
                 <li><a href="#">Yearnings of Yore</a></li>
               </ul>
             </li>
@@ -49,10 +57,15 @@
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Sponsors</a>
               <ul class="dropdown-menu">
                 <li><a href="#">2017</a></li>
+                 <li class="divider"></li>
                 <li><a href="#">2016</a></li>
+                 <li class="divider"></li>
                 <li><a href="#">2015 </a></li>
+                 <li class="divider"></li>
                 <li><a href="#">2014</a></li>
-                <li><a href="#">2013</a></li>
+                 <li class="divider"></li>
+                <li><a href="#">2013</a></li> 
+                <li class="divider"></li>
                 <li><a href="#">2012</a></li>
               </ul>
             </li>
