@@ -1,12 +1,15 @@
 
+<html>
 <head> 
     <title> Alumni Cell </title>
+    <meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/main.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 </head>
-
-<body>
-
 <header id="myCarousel" >
    <div class="carousel-inner">
         <div class="item active">
@@ -24,20 +27,22 @@
 
 
 </header>
+<body>
 <?php
-include 'nav3.php';
+include 'nav.php';
+//include 'carousal2.php';
 ?>
-<br><br><br><br><br><br>
+<br>
 <?php
 include 'body.php';
 ?>
 </body>
+<footer>
 <?php 
 include 'foot.php';
 ?>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script><link rel="stylesheet" href="">
-
+</footer>
 <script src="js/main.js"></script>
+</html>
 
 

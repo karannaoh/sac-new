@@ -1,36 +1,4 @@
-<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
-  <style type="text/css">
-    #foot{
-      background-color: #222c3a;
-      color: white;
-      font-family: 'Raleway',sans-serif;
-    }
-    #footer{
-      margin-top: 25px;
-      opacity: 0.9;
-    }
-    .btn-link{
-      opacity: 0.5;
-    }
-    .emails{
-      opacity: 0.4;
-    }
-    .phone{
-      opacity: 0.4;
-    }
-    #midfoot{
-      margin-top: 16px;
-    }
-    .maps{
-      opacity: 0.7;
-      margin-left: 10px;
-    }
-    #rightfoot{
-      margin-top: 16px;
-    }
-  </style>
-</head>
-<body>
+<br><br><br><br><br>
 <div class="container-fluid" id="foot">
  <div class="row">
   <div class="col-sm-3 text-center"><p id="footer">This website is governed by <strong>Office of Alumni Affairs & International Relations,</strong><br>
@@ -65,5 +33,3 @@
 </div>
 </div>
 </div>
-</body>
-</html>
