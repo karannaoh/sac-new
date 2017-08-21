@@ -1,34 +1,44 @@
 <div class="container">
- <div id="myCarousel" class="carousel slide" data-ride="carousel">
+
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">
       <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
       <li data-target="#myCarousel" data-slide-to="1"></li>
       <li data-target="#myCarousel" data-slide-to="2"></li>
-	   <li data-target="#myCarousel" data-slide-to="3"></li>
-	    <li data-target="#myCarousel" data-slide-to="4"></li>
-	 
-	 
+      <li data-target="#myCarousel" data-slide-to="3"></li>
     </ol>
 
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
+
       <div class="item active">
-        <img src="mentorship.jpg"  style="width:100%; ">
+        <img src="givingback.jpg" alt="givingback" style="width:100%;">
+        <div class="carousel-caption">
+          
+        </div>
       </div>
 
       <div class="item">
-        <img src="alvida1.jpg"  style="width:100%;">
+        <img src="alvida1.jpg" alt="Alvida" style="width:100%;">
+        <div class="carousel-caption">
+          
+        </div>
+      </div>
+    
+      <div class="item">
+        <img src="mentorship.jpg" alt="mentorship" style="width:100%;">
+        <div class="carousel-caption">
+         
+        </div>
       </div>
       <div class="item">
-        <img src="givingback.jpg"  style="width:100%;">
+        <img src="yoy1.jpg" alt="YOY" style="width:100%;">
+        <div class="carousel-caption">
+         
+        </div>
       </div>
-	        <div class="item">
-        <img src="sam3.jpg"  style="width:100%;">
-      </div>
-	        <div class="item">
-        <img src="yoy1.jpg"  style="width:100%;">
-      </div>
+  
     </div>
 
     <!-- Left and right controls -->
@@ -42,6 +52,3 @@
     </a>
   </div>
 </div>
-
-
-
