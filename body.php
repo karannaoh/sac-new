@@ -1,20 +1,4 @@
- <style type="text/css">
-   .col-sm-10
-{
-    box-shadow: 3px 3px 6px 6px rgba(0,0,0,.4) !important;
-    background-image: url('6.jpg') !important;
-    
-}
-
-
-
-.col-sm-10:hover
-{
-    
-    background-image: url('6.jpg') !important;
-}
- </style>
- <br /><br />
+<br /><br />
 <div class="row">
 <div class="col-sm-12 " align="center"><div  class="bor" >About Us</div></div>
 </div>
@@ -96,26 +80,26 @@
     </div>
 <br><br>
 <div class="container mainn">
-<div class="tabbable"> <!-- Only required for left/right tabs -->
-  <ul class="nav nav-tabs">
-    <li class="active"><a href="#tab1" data-toggle="tab">Class Gift of 2015</a></li>
-    <li><a href="#tab2" data-toggle="tab">Mentorship</a></li>
-    <li><a href="#tab3" data-toggle="tab">Guest Lecture & E-Guest Lecture</a></li>
-    <li><a href="#tab4" data-toggle="tab">Yearbook 2016</a></li>
-  </ul>
-  <div class="tab-content">
-    <div class="tab-pane active" id="tab1">
-      <p>The Senior Class Gift, an initiative under the My Imprint Programme saw a large number of graduating students signing up for the programme. The programme gives an opportunity to the graduating batch to give something back to the Institute, the moment they are about to leave the Institute.</p>
-    </div>
-    <div class="tab-pane" id="tab2">
-      <p>Studentsâ€™ Alumni Cell brings to you Student Alumni Mentorship Programme. A plat form to share the valuable experience of our esteemed alumni community with the current students. For more Information, Kindly check out Mentorship Website.</p>
-    </div>
-    <div class="tab-pane" id="tab3">
-      <p>Continuing with its yearlong series of Guest Lectures by eminent alumni, the Students’ Alumni Cell recently organised "Tips from Top", an open house with prominent alumni in the fields of Entrepreneurship, Civil Services and Research.</p>
-    </div>
-    <div class="tab-pane" id="tab4">
-      <p>The Yearbook is a collection of photographs and memories presented every year at the time of the convocation to the graduating batch by the Students’ Alumni Cell. It is the perfect souvenir for everyone about to leave their home away from home, KGP.</p>
+  <div class="tabbable tabs-left"> <!-- Only required for left/right tabs -->
+    <ul class="nav nav-tabs">
+      <li class="active"><a href="#tab1" data-toggle="tab">Class Gift of 2015</a></li>
+      <li><a href="#tab2" data-toggle="tab">Mentorship</a></li>
+      <li><a href="#tab3" data-toggle="tab">Guest Lecture & E-Guest Lecture</a></li>
+      <li><a href="#tab4" data-toggle="tab">Yearbook 2016</a></li>
+    </ul>
+    <div class="tab-content">
+      <div class="tab-pane active" id="tab1">
+        <p>The Senior Class Gift, an initiative under the My Imprint Programme saw a large number of graduating students signing up for the programme. The programme gives an opportunity to the graduating batch to give something back to the Institute, the moment they are about to leave the Institute.</p>
+      </div>
+      <div class="tab-pane" id="tab2">
+        <p>Studentsâ€™ Alumni Cell brings to you Student Alumni Mentorship Programme. A plat form to share the valuable experience of our esteemed alumni community with the current students. For more Information, Kindly check out Mentorship Website.</p>
+      </div>
+      <div class="tab-pane" id="tab3">
+        <p>Continuing with its yearlong series of Guest Lectures by eminent alumni, the Students’ Alumni Cell recently organised "Tips from Top", an open house with prominent alumni in the fields of Entrepreneurship, Civil Services and Research.</p>
+      </div>
+      <div class="tab-pane" id="tab4">
+        <p>The Yearbook is a collection of photographs and memories presented every year at the time of the convocation to the graduating batch by the Students’ Alumni Cell. It is the perfect souvenir for everyone about to leave their home away from home, KGP.</p>
+      </div>
     </div>
   </div>
-</div>
 </div>
