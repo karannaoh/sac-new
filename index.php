@@ -16,7 +16,8 @@
         <div class="item active">
             <div class="fill" style="background-image:url('http://ewh.ieee.org/sb/kharagpur/iit/MEMS2013/MEMS_Workshop_Location_files/IIT%20KGP.jpg');"></div>
             <div class="carousel-caption">
-                <img src="https://pbs.twimg.com/media/DDpbadLXsAAvhZt.png" alt="">
+                <img src="iitlogo.png" alt="">
+                
                 <h1>Student's Alumni Cell</h1>
                 <p class="lead">IIT Kharagpur</p>
                 <p>
