@@ -1,7 +1,7 @@
 
 <html>
 <head> 
-    <title> Alumni Cell </title>
+    <title>Students' Alumni Cell </title>
     <meta charset="utf-8">
   	<meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" href="imgs/meet_14.png" type="image/gif" sizes="16x16">
