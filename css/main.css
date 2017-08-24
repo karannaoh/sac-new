@@ -69,10 +69,15 @@ section {
 }
 .navbar.navbar-fixed-top.fixed-theme {
     background-color:  rgba(34, 44, 58, 0.99);
-    color: black;
+    color: 0px;
     border: none;
     box-shadow: 0 0 55px rgb(63, 105, 169);
   }
+.row
+{
+  margin-left: 0px;
+  margin-right: 0px;
+}
 
 
 
