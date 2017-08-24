@@ -3,6 +3,7 @@ html {
 }
 body {
     height: 100%;
+    background-image: url('../imgs/tex4.jpg') !important;
 
 }
 #myCarousel > .carousel {
@@ -61,6 +62,11 @@ section {
 /*
     color after scrollong of nav
 */
+.navbar-static-top{
+  background-color:  rgba(34, 44, 58, 0.99);
+    color: black;
+    border: none;
+}
 .navbar.navbar-fixed-top.fixed-theme {
     background-color:  rgba(34, 44, 58, 0.99);
     color: black;
@@ -187,6 +193,7 @@ h2
     margin-right: 500px;
     padding: 12px;
     color: black;
+    background-image: url('../imgs/tex5.jpeg');
 }
 .headercan
     {
