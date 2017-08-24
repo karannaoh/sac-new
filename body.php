@@ -8,7 +8,7 @@
 }
 .bor
 {
-   background-image: url('imgs/tex3.jpg');
+   background-image: url('imgs/tex5.jpeg');
 }
 
  </style>
