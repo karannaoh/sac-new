@@ -28,17 +28,17 @@
 </div>
 <br /><br /><br /><br />
 
- 
+  
 <div class="row">
     <div class="col-sm-12 " align="center"><div  class="bor" >What We Do</div></div>
     </div>
-<br><br><br><br>
+<br><br>
 <div class="container mainn">
 <div class="row">
   <br><br>
-  <div class="col-sm-4 imagespace"><img src="11.1.jpg" class="img-thumbnail imagesize"></div>
+  <div class="col-sm-4 imagespace"><img src="11.1.jpg" class="img-thumbnail imagesize" ></div>
   <div class="col-sm-4 textspace">
-    <h3 align="center" class="for">For Alumni</h3>
+    <h3 align="center" class="for">For Alumni</h3><hr>
     <div class="textinit">The Students' Alumni Cell works towards ensuring mutual benefit of the Students as well as the Alumni. The Cell helps the alumni in staying connected to their alma mater. Through regular interactions with the students, the alumni get a chance to share their experiences and impart the knowledge they have acquired to the next generation of KGPians. Also, with this interchange, they get a glimpse of the young minds of the nation.</div>
   
   </div>
@@ -51,19 +51,20 @@
 <div class="row">
   
   <div class="col-sm-4 textspace1">
-  <h3 align="center" class="for">For Institute</h3>
+  <h3 align="center" class="for">For Institute</h3><hr>
     <div class="textinit">The alumni community often takes keen interest in the Institute’s workings and the prevalent conditions. Students' Alumni Cell reconnects the Institute and alumni, providing the alumni with an avenue to give back to their alma mater. The Institution Development Programme (IDP) aims to promote the Institute's domestic ranking while simultaneously improving the international stature.</div>
   
 </div>
-<div class="col-sm-4 imagespace"><img src="11.21.jpg" class="img-thumbnail imagesize1"></div>
+
+<div class="col-sm-4 imagespace1"><img src="11.21.jpg" class="img-thumbnail imagesize1" ></div>
 </div>
 
 <br><br><hr><br><br>
 
 <div class="row">
-  <div class="col-sm-4 imagespace"><img src="11.3.jpg" class="img-thumbnail imagesize"></div>
+  <div class="col-sm-4 imagespace" align="left"><img src="11.3.jpg" class="img-thumbnail imagesize" ></div>
   <div class="col-sm-4 textspace">
-  <h3 align="center" class="for">For Students</h3>
+  <h3 align="center" class="for">For Students</h3><hr>
     <div class="textinit">Students' Alumni Cell works in conjunction with the student administration bodies and is therefore constantly in touch with the needs and wants of the students. It connects the students with the alumni, giving them a chance to interact with some of the most eminent personalities in all fields of work. It works towards making their learning experience more holistic.</div>
   
 </div>
@@ -78,7 +79,6 @@
 
 
 <br><br>
-
 
 <!-- 
 <div class="row">
@@ -148,10 +148,10 @@
     <div class="tab-pane active" id="tab1">
     <div class="row">
     <br>
-    <div class="col-sm-4 imagespace"><img src="10.1.jpg" class="img-thumbnail imagesize2" style="height: 225px;"></div>
-  <div class="col-sm-4 textspace">
+    <div class="col-sm-4 imagespace4"><img src="10.1.jpg" class="img-thumbnail imagesize24" style="height: 225px;"></div>
+  <div class="col-sm-4 textspace4">
     <h3 align="center" class="for">Senior Class Gift</h3>
-    <div class="textinit">The Senior Class Gift, an initiative under the 
+    <div class="textinit4">The Senior Class Gift, an initiative under the 
               My Imprint Programme saw a large number of graduating students signing up for the programme.
                The programme gives an opportunity to the graduating batch to give something back to the Institute,
                 the moment they are about to leave the Institute.</div>
@@ -164,10 +164,10 @@
     <div class="tab-pane fade" id="tab2">
     <div class="row">
     <br>
-    <div class="col-sm-4 imagespace"><img src="10.2.jpg" class="img-thumbnail imagesize2" style="height: 225px;"></div>
-  <div class="col-sm-4 textspace">
+    <div class="col-sm-4 imagespace4"><img src="10.2.jpg" class="img-thumbnail imagesize24" style="height: 225px;"></div>
+  <div class="col-sm-4 textspace4">
     <h3 align="center" class="for">Mentorship</h3>
-    <div class="textinit">Studentsâ€™ Alumni Cell brings to you Student Alumni Mentorship Programme. A plat form to share the valuable experience of our esteemed alumni community with the current students. For more Information, Kindly check out Mentorship Website.</div>
+    <div class="textinit4">Studentsâ€™ Alumni Cell brings to you Student Alumni Mentorship Programme. A plat form to share the valuable experience of our esteemed alumni community with the current students. For more Information, Kindly check out Mentorship Website.</div>
   
   </div><br>
     </div><br>
@@ -175,21 +175,21 @@
     <div class="tab-pane fade" id="tab3">
       <div class="row">
     <br>
-    <div class="col-sm-4 imagespace"><img src="10.3.jpg" class="img-thumbnail imagesize"  style="height: 225px;"></div>
+    <div class="col-sm-4 imagespace4"><img src="10.3.jpg" class="img-thumbnail imagesize"  style="height: 225px;"></div>
 
-    <div class="col-sm-4 textspace">
+    <div class="col-sm-4 textspace4">
     <h3 align="center" class="for">Guest Lecture</h3>
-     <div class="textinit">Continuing with its yearlong series of Guest Lectures by eminent alumni, the Students&#8217; Alumni Cell recently organised "Tips from Top", an open house with prominent alumni in the fields of Entrepreneurship, Civil Services and Research. </div>
+     <div class="textinit4">Continuing with its yearlong series of Guest Lectures by eminent alumni, the Students&#8217; Alumni Cell recently organised "Tips from Top", an open house with prominent alumni in the fields of Entrepreneurship, Civil Services and Research. </div>
     </div><br>
     </div><br>
     </div>
     <div class="tab-pane fade" id="tab4">
       <div class="row">
     <br>
-    <div class="col-sm-4 imagespace"><img src="10.4.jpg" class="img-thumbnail imagesize" style="height: 225px;"></div>
-    <div class="col-sm-4 textspace">
+    <div class="col-sm-4 imagespace4"><img src="10.4.jpg" class="img-thumbnail imagesize" style="height: 225px;"></div>
+    <div class="col-sm-4 textspace4">
     <h3 align="center" class="for">Yearbook</h3>
-     <div class="textinit">The Yearbook is a collection of photographs and memories presented every year at the time of the convocation to the graduating batch by the Students&#8217; Alumni Cell. It is the perfect souvenir for everyone about to leave their home away from home, KGP.</div>
+     <div class="textinit4">The Yearbook is a collection of photographs and memories presented every year at the time of the convocation to the graduating batch by the Students&#8217; Alumni Cell. It is the perfect souvenir for everyone about to leave their home away from home, KGP.</div>
     </div>
     </div>
     <br>
