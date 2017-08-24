@@ -7,6 +7,9 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
                     </button>
                        <a class="navbar-logo" href="#" class="pull-left">
                     		<img src="imgs/logo/sac_logo.png" srcset="" alt="image" height="70px">
