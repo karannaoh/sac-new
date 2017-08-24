@@ -1,18 +1,4 @@
- <style type="text/css">
-   body
-{
-   
-    background-image: url('tex4.jpg') !important;/*modified*/
-
-    
-}
-.bor
-{
-   background-image: url('imgs/tex5.jpeg');
-}
-
- </style>
- <br /><br />
+<br /><br />
 <div class="row">
 <div class="col-sm-12 " align="center"><div  class="bor" >About Us</div></div>
 </div>
@@ -143,7 +129,7 @@
 <div class="row">
     <div class="col-sm-12 " align="center"><div  class="bor" >Latest Program</div></div>
     </div>
-<br><br>
+<br><br><br>
 <div class="container mainn">
 <div class="tabbable"> <!-- Only required for left/right tabs -->
   <ul class="nav nav-tabs">
@@ -211,5 +197,3 @@
   </div>
 </div>
 </div>
-<br><br><br>
-<br><br>
