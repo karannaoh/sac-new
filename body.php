@@ -6,7 +6,10 @@
 
     
 }
-
+.bor
+{
+   background-image: url('imgs/tex3.jpg');
+}
 
  </style>
  <br /><br />
@@ -43,7 +46,7 @@
 <div class="row">
     <div class="col-sm-12 " align="center"><div  class="bor" >What We Do</div></div>
     </div>
-<br><br>
+<br><br><br><br>
 <div class="container mainn">
 <div class="row">
   <br><br>
@@ -135,28 +138,12 @@
 </div>
 
 </div>
-<br><br>
-
-
 </div>
 <br>
-
-
-
-<br><br>
-
-
-
-
-
-
-
-
-<br><br>
 <div class="row">
     <div class="col-sm-12 " align="center"><div  class="bor" >Latest Program</div></div>
     </div>
-<br><br>
+<br><br><br><br>
 <div class="container mainn">
 <div class="tabbable"> <!-- Only required for left/right tabs -->
   <ul class="nav nav-tabs">
@@ -170,6 +157,7 @@
     <li ><a href="#tab2" data-toggle="tab">Mentorship</a></li>
     <li><a href="#tab3" data-toggle="tab">Guest Lecture</a></li>
     <li><a href="#tab4" data-toggle="tab">Yearbook 2016</a></li>
+
   </ul>
   <div class="tab-content">
     <div class="tab-pane active" id="tab1">
